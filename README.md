@@ -10,3 +10,4 @@ A bash script that calculates simple interest given principal, annual rate of in
 ## Output:
 * `simple interest = p*t*r`# coursera
 * Fixed typo for Task 8
+  
